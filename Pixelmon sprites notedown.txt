@@ -26,10 +26,10 @@
 017
 018
 018-mega
-019-alolan
-019-normal
-020-alolan
-020-normal
+019-alolan Rattata-alolan
+019-normal Rattata
+020-alolan Raticate-alolan
+020-normal Raticate
 021
 022
 023
