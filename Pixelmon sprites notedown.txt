@@ -1,19 +1,19 @@
-001
-002
-003
-003-mega
-003-special
-004
-005
-006
-006-mega-x
-006-mega-y
-006-special
-007
-008
-009
-009-mega
-009-special
+001 Bulbasaur
+002 Ivysaur
+003 Venusaur
+003-mega Venusaur-mega
+003-special Venusaur-special
+004 Charmander
+005 Charmeleon
+006 Charizard
+006-mega-x Charizard-mega-X
+006-mega-y Charizard-mega-Y
+006-special Charizard-special
+007 Squirtle
+008 Wartortle
+009 Blastoise
+009-mega Blastoise-mega
+009-special Blastoise-special
 010
 011
 012
