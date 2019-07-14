@@ -200,126 +200,154 @@
 147
 148
 149
-150
-150-mega-x
-150-mega-y
-151
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+150 Mewtwo
+150-mega-x Mewtwo-mega-x
+150-mega-y Mewtwo-mega-y
+151 Mew
+152 Chikorita
+153 Bayleef
+154 Meganium
+154-special Meganium-special
+155 Cyndaquil
+156 Quilava
+157 Typhlosion
+157-special Typhlosion-special
+158 Totodile
+159 Croconaw
+160 Feraligatr
+160-special Feraligatr-special
+161 Sentret
+162 Furret
+163 Hoothoot
+164 Noctowl
+165 Ledyba
+166 Ledian
+167 Spinarak
+168 Ariaods
+169 Crobat
+170 Chinchou
+171 Lanturn
+172 Pichu
+172-spiky Pichu-spiky
+173
+174
+175
+176
+177
+178
+179
+180
+181
+181-mega
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+201-a
+201-b
+201-c
+201-d
+201-e
+201-exclamation
+201-f
+201-g
+201-h
+201-i
+201-j
+201-k
+201-l
+201-m
+201-n
+201-o
+201-p
+201-q
+201-question
+201-r
+201-s
+201-t
+201-u
+201-v
+201-w
+201-x
+201-y
+201-z
+202-female
+202-male
+202-special
+203
+204
+205
+206
+207
+208
+208-mega
+209
+210
+211
+212
+212-mega
+213
+214
+214-f
+214-mega
+2-15
+215-f
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+229-mega
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+248-mega
+249
+249-shadow
+249-special
+250
+251
 
 
 
