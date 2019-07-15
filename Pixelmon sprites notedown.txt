@@ -348,174 +348,173 @@
 249-special
 250
 251
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+252             Treecko
+253             Grovyle
+254             Sceptile
+254-mega        Sceptile-mega
+254-special     Sceptile-special
+255             Torchic
+256             Combusken
+257             Blaziken
+257-mega        Blaziken-mega
+257-special     Blaziken-special
+258             Mudkip
+259             Marshtomp
+260             Swampert
+260-mega        Swampert-mega
+260-special     Swampert-special
+261             Poochyena
+262             Mightyena
+263             Zigzagoon
+264             Linoone
+265             Wurmple
+266             Silcoon
+267             Beautifly
+268             Cascoon
+269             Dustox
+270             Lotad
+271             Lombre
+272             Ludicolo
+273             Seedot
+274             Nuzleaf
+275             Shiftry
+276             Taillow
+277             Swellow
+278             Wingull
+279             Pelipper
+280             Ralts
+281             Kirlia
+282             Gardevoir
+282-mega        Gardevoir-mega
+283             Surskit
+284             Masquerain
+285             Shroomish
+286             Breloom
+287             Slakoth
+288             Vigoroth
+289             Slaking
+290             Nincada
+291             Ninjask
+292             Shedinja
+293             Whismur
+294             Loudred
+295             Exploud
+296             Makuhita
+297             Hariyama
+298             Azurill
+299             Nosepass
+300             Skitty
+301             Delcatty
+302             Sableye
+302-mega        Sableye-mega
+303             Mawile
+303-mega        Mawile-mega
+304             Aron
+305             Lairon
+306             Aggron
+306-mega        Aggron-mega
+307             Meditite
+308             Medichan
+308-mega        Medichan-mega
+309             Electrike
+310             Manectric
+310-mega        Manectric-mega
+311             Plusle
+312             Minum
+313             Volbeat
+314             Illusime
+315             Roselia
+316             Gulpin
+317             Swalot
+318             Carvanha
+319             Sharpedo
+319-mega        Sharpedo-mega
+320             Wailmer
+321             Wailord
+322             Numel
+323             Camperupt
+323-mega        Camperupt-mega
+324             torkoal
+325             Spoink
+326             Grumpig
+327             Spinda
+328             Trapinch
+329             Vibrava
+330             Flygon
+331             Cacnea
+332             Cacturne
+333             Swablu
+334             Altaria
+334-mega        Altaria
+335             Zangoose
+336             Seviper
+337             Lunatone
+338             Solrock
+339             Barboach
+340             Whiscash
+341             Corphish
+342             Crawdaunt
+343             Baltoy
+344             Claydol
+345             Lileep
+346             Cradily
+347             Anorith
+348             Armaldo
+349             Feebas
+350             Milotic
+351-ice         Castform-ice
+351-normal      Castform
+351-rain        Castform-rain
+351-sun         Castform-sun
+352             Kecleon
+352-purple      Kecleon-purple
+353             Shuppet
+354             Banette
+354-mega        Banette-mega
+355             Duskull
+356             Dusclops
+357             Tropius
+358             Chimecho
+359             Absol
+359-mega        Absol-mega
+360             Wynaut
+361             Snorunt
+362             Glalie
+362-mega        Glalie-mega
+363             Spheal
+364             Sealeo
+365             Walrein
+366             Clamperl
+367             Huntail
+368             Gorebyss
+369             Relicanth
+370             Luvdisc
+371             Bagon
+372             Shelgon
+373             Salamence
+373-mega        Salamence-mega
+374             Beldum
+375             Metang
+376             Metagross
+376-mega        Metagross-mega
+377             Regirock
+378             Regice
+379             Registeel
+380             Latias
+380-mega        Latias-mega
+381             Latios
+381-mega        Latios-mega
+382-normal      Kyogre
+382-primal      Kyogre primal
+383-normal      Groudon
+383-primal      Groudon-primal
+384             Rayqauza
+384-mega        Rayqauza-mega
+385             Jirachi
+386-attack      Deoxys-attack
+386-defense     Deoxys-defense
+386-normal      Deoxys
+386-speed       Deoxys-speed
 
 
 
