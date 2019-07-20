@@ -231,125 +231,125 @@
 171             Lanturn
 172             Pichu
 172-spiky       Pichu-spiky
-173
-174
-175
-176
-177
-178
-179
-180
-181
-181-mega
-182
-183
-184
-185
-186
-187
-188
-189
-190
-191
-192
-193
-194
-195
-196
-197
-198
-199
-200
-201
-201-a
-201-b
-201-c
-201-d
-201-e
-201-exclamation
-201-f
-201-g
-201-h
-201-i
-201-j
-201-k
-201-l
-201-m
-201-n
-201-o
-201-p
-201-q
-201-question
-201-r
-201-s
-201-t
-201-u
-201-v
-201-w
-201-x
-201-y
-201-z
-202-female
-202-male
-202-special
-203
-204
-205
-206
-207
-208
-208-mega
-209
-210
-211
-212
-212-mega
-213
-214
-214-f
-214-mega
-2-15
-215-f
-216
-217
-218
-219
-220
-221
-222
-223
-224
-225
-226
-227
-228
-229
-229-mega
-230
-231
-232
-233
-234
-235
-236
-237
-238
-239
-240
-241
-242
-243
-244
-245
-246
-247
-248
-248-mega
-249
-249-shadow
-249-special
-250
-251
+173             Cleffa
+174             Igglybuff
+175             Togepi
+176             Togetic
+177             Natu
+178             Xatu
+179             Mareep
+180             Flaaffy
+181             Ampharos
+181-mega        Ampharos-mega
+182             Bellosom
+183             Marill
+184             Azumarill
+185             Sudowoodo
+186             Politoed
+187             Hoppip
+188             Skiploom
+189             Jumpluff
+190             Aipom
+191             Sunkurn
+192             Sunflora
+193             Yanma
+194             Wooper
+195             Quagsire
+196             Espeon
+197             Umbreon
+198             Murkrow
+199             Slowking
+200             Misdreavus
+201             Unown
+201-a           Unown-a
+201-b           Unown-b
+201-c           Unown-c
+201-d           Unown-d
+201-e           Unown-e
+201-exclamation Unown-exclamation
+201-f           Unown-f
+201-g           Unown-g
+201-h           Unown-h
+201-i           Unown-i
+201-j           Unown-j
+201-k           Unown-k
+201-l           Unown-l
+201-m           Unown-m
+201-n           Unown-n
+201-o           Unown-o
+201-p           Unown-p
+201-q           Unown-q
+201-question    Unown-question
+201-r           Unown-r
+201-s           Unown-s
+201-t           Unown-t
+201-u           Unown-u
+201-v           Unown-v
+201-w           Unown-w
+201-x           Unown-x
+201-y           Unown-y
+201-z           Unown-z
+202-female      Wobbuffet-female
+202-male        Wobbuffet-male
+202-special     Wobbuffet-special
+203             Girafarig
+204             Pineco
+205             Forretress
+206             Dunsparce
+207             Gligar
+208             Steelix
+208-mega        Steelix-mega
+209             Snubbul
+210             Granbull
+211             Qwilfish
+212             Scizor
+212-mega        Scizor-mega
+213             Shuckle
+214             Heracross
+214-f           Heracross-female
+214-mega        Heracross-mega
+215             Sneasel
+215-f           Sneasel-female
+216             Teddiursa
+217             Ursaring
+218             Slugma
+219             Magcargo
+220             Swinub
+221             Piloswine
+222             Corsola
+223             Remoraid
+224             Octillery
+225             Delibird
+226             Mantine
+227             Skarmory
+228             Houndour
+229             Houndoom
+229-mega        Houndoom-mega
+230             Kingdra
+231             Phanpy
+232             Donphan
+233             Porygon-2
+234             Stantler
+235             Smeargle
+236             Tyrogue
+237             Hitmontop
+238             Smoochum
+239             Elekid
+240             Magby
+241             Miltank
+242             Blissey
+243             Raikou
+244             Entei
+245             Suicune
+246             Larvitar
+247             Pupitar
+248             Tyranitar
+248-mega        Tyranitar-mega
+249             Lugia
+249-shadow      Lugia-shadow
+249-special     Lugia-special
+250             Ho-oh
+251             Celebi
 252             Treecko
 253             Grovyle
 254             Sceptile
