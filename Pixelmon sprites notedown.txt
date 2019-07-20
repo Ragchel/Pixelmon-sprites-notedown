@@ -1,54 +1,54 @@
-001 Bulbasaur
-002 Ivysaur
-003 Venusaur
-003-mega Venusaur-mega
-003-special Venusaur-special
-004 Charmander
-005 Charmeleon
-006 Charizard
-006-mega-x Charizard-mega-X
-006-mega-y Charizard-mega-Y
-006-special Charizard-special
-007 Squirtle
-008 Wartortle
-009 Blastoise
-009-mega Blastoise-mega
-009-special Blastoise-special
+001             Bulbasaur
+002             Ivysaur
+003             Venusaur
+003-mega        Venusaur-mega
+003-special     Venusaur-special
+004             Charmander
+005             Charmeleon
+006             Charizard
+006-mega-x      Charizard-mega-X
+006-mega-y      Charizard-mega-Y
+006-special     Charizard-special
+007             Squirtle
+008             Wartortle
+009             Blastoise
+009-mega        Blastoise-mega
+009-special     Blastoise-special
 010
 011
 012
 012-p
-013
-014
-015
-015-mega
+013             Pidgey
+014             Pidgeotto
+015             Pidgeot
+015-mega        Pidgeot-mega
 016
 017
 018
 018-mega
-019-alolan Rattata-alolan
-019-normal Rattata
-020-alolan Raticate-alolan
-020-normal Raticate
+019-alolan      Rattata-alolan
+019-normal      Rattata
+020-alolan      Raticate-alolan
+020-normal      Raticate
 021
 022
 023
 024
-025
-025-alola
-025-belle
-025-cosplay
-025-f
-025-hat
-025-hoenn
-025-kalos
-025-libre
-025-normal
-025-ph.d
-025-pop-star
-025-rock-star
-025-sinnoh
-025-unova
+025             Pikachu
+025-alola       Pikachu-alola
+025-belle       Pikachu-belle
+025-cosplay     Pikachu-cosplay
+025-f           Pikachu-female
+025-hat         Pikachu-hat
+025-hoenn       Pikachu-hoenn
+025-kalos       Pikachu-kalos
+025-libre       Pikachu-libre
+025-normal      Pikachu-normal
+025-ph.d        Pikachu-ph.d
+025-pop-star    Pikachu-pop-star
+025-rock-star   Pikachu-rock-star
+025-sinnoh      Pikachu-sinnoh
+025-unova       Pikachu-unova
 026-alolan
 026-normal
 027-alolan
@@ -200,35 +200,35 @@
 147
 148
 149
-150 Mewtwo
-150-mega-x Mewtwo-mega-x
-150-mega-y Mewtwo-mega-y
-151 Mew
-152 Chikorita
-153 Bayleef
-154 Meganium
-154-special Meganium-special
-155 Cyndaquil
-156 Quilava
-157 Typhlosion
-157-special Typhlosion-special
-158 Totodile
-159 Croconaw
-160 Feraligatr
-160-special Feraligatr-special
-161 Sentret
-162 Furret
-163 Hoothoot
-164 Noctowl
-165 Ledyba
-166 Ledian
-167 Spinarak
-168 Ariaods
-169 Crobat
-170 Chinchou
-171 Lanturn
-172 Pichu
-172-spiky Pichu-spiky
+150             Mewtwo
+150-mega-x      Mewtwo-mega-x
+150-mega-y      Mewtwo-mega-y
+151             Mew
+152             Chikorita
+153             Bayleef
+154             Meganium
+154-special     Meganium-special
+155             Cyndaquil
+156             Quilava
+157             Typhlosion
+157-special     Typhlosion-special
+158             Totodile
+159             Croconaw
+160             Feraligatr
+160-special     Feraligatr-special
+161             Sentret
+162             Furret
+163             Hoothoot
+164             Noctowl
+165             Ledyba
+166             Ledian
+167             Spinarak
+168             Ariaods
+169             Crobat
+170             Chinchou
+171             Lanturn
+172             Pichu
+172-spiky       Pichu-spiky
 173
 174
 175
@@ -664,7 +664,7 @@
 493-ice
 493-normal
 493-poison
-493-psychuc
+493-psychic
 493-rock
 493-steel
 493-water
@@ -985,122 +985,113 @@
 730
 731
 732
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745-dusk
+745-midday
+745-midnight
+746
+746-s
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773-bug
+773-dark
+773-dragon
+773-electric
+773-fairy
+773-fighting
+773-fire
+773-flying
+773-ghost
+773-grass
+773-ground
+773-ice
+773-normal
+773-poison
+773-psychic
+773-rock
+773-steel
+773-water
+774-blue
+774-green
+774-indigo
+774-meteor
+774-orange
+774-red
+774-violet
+774-yellow
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+791-r
+792
+792-r
+793
+794
+795
+796
+797
+798
+799
+800-dawn
+800-dusk
+800-normal
+800-ultra
+801
+801-o
+802
+803
+804
+805
 806
 807
 808
-809
+809 
