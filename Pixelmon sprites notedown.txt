@@ -14,26 +14,26 @@
 009             Blastoise
 009-mega        Blastoise-mega
 009-special     Blastoise-special
-010
-011
-012
-012-p
-013             Pidgey
-014             Pidgeotto
-015             Pidgeot
-015-mega        Pidgeot-mega
-016
-017
-018
-018-mega
+010             Caterpie
+011             Metapod
+012             Butterfree
+012-p           Butterfree-pink
+013             Weedle
+014             Kakuna
+015             Beedrill
+015-mega        Beedrill-mega
+016             Pidgey
+017             Pidgeotto
+018             Pidgeot
+018-mega        Pidgeot-mega
 019-alolan      Rattata-alolan
 019-normal      Rattata
 020-alolan      Raticate-alolan
 020-normal      Raticate
-021
-022
-023
-024
+021             Spearow
+022             Fearow
+023             Ekans
+024             Arbok
 025             Pikachu
 025-alola       Pikachu-alola
 025-belle       Pikachu-belle
@@ -49,157 +49,159 @@
 025-rock-star   Pikachu-rock-star
 025-sinnoh      Pikachu-sinnoh
 025-unova       Pikachu-unova
-026-alolan
-026-normal
-027-alolan
-027-normal
-028-alolan
-028-normal
-029
-030
-031
-032
-033
-034
-035
-036
-037-alolan
-037-normal
-038-alolan
-038-normal
-039
-040
-041
-042
-043
-044
-045
-046
-047
-048
-049
-050-alolan
-050-normal
-051-alolan
-051-normal
-052-alolan
-052-normal
-054
-055
-056
-057
-058
-059
-060
-061
-062
-063
-064
-065
-065-mega
-066
-067
-068
-069
-070
-071
-072
-073
-074-alolan
-074-normal
-075-alolan
-075-normal
-076-alolan
-076-normal
-077
-078
-079
-080
-080-mega
-081
-082
-083
-084
-085
-086
-087
-088-alolan
-088-normal
-089-alolan
-089-normal
-090
-091
-092
-093
-093-special
-094
-094-mega
-095
-095-crystal
-096
-097
-098
-099
-100
-101
-102
-103-alolan
-103-normal
-104
-105-alolan
-105-normal
-106
-107
-108
-109
-109-loved
-110
-110-loved
-111
-112
-113
-114
-115
-115-mega
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
-127
-127-mega
-128
-129
-129-special
-130
-130-mega
-130-special
-131
-132
-133
-134
-135
-136
-137
-138
-139
-140
-141
-142
-142-mega
-143
-144
-145
-146
-147
-148
-149
+026-alolan      Raichu-alolan
+026-normal      Raichu-normal
+027-alolan      Sandshrew-alolan
+027-normal      Sandshrew-normal
+028-alolan      Sandslash-alolan
+028-normal      Sandslash-normal
+029             Nidoran-female
+030             Nidorino
+031             Nidoqueen
+032             Nidoran-male
+033             Nidorina
+034             Nidoking
+035             Clefairy
+036             Clefable
+037-alolan      Vulpix-alolan
+037-normal      Vulpix-normal
+038-alolan      Ninetales-alolan
+038-normal      Ninetales-normal
+039             Jigglypuff
+040             Wigglytuff
+041             Zubat
+042             Golbat
+043             Oddish
+044             Gloom
+045             Vileplume
+046             Paras
+047             Parasect
+048             Venonat
+049             Venomoth
+050-alolan      Diglett-alolan
+050-normal      Diglett-normal
+051-alolan      Dugtrio-alolan
+051-normal      Dugtrio-normal
+052-alolan      Meowth-alolan
+052-normal      Meowth-normal
+053-alolan      Persian-alolan
+053-normal      Persian-normal
+054             Psyduck
+055             Golduck
+056             Mankey
+057             Primeape
+058             Growlithe
+059             Arcanine
+060             Poliwag
+061             Poliwhirl
+062             Poliwrath
+063             Abra
+064             Kadabra
+065             Alakazam
+065-mega        Alakazam-mega
+066             Machop
+067             Machoke
+068             Machamp
+069             Bellsprout
+070             Weepinbell
+071             Victreebell
+072             Tentacool
+073             Tentacruel
+074-alolan      Geodude-alolan
+074-normal      Geodude-normal
+075-alolan      Graveler-alolan
+075-normal      Graveler-normal
+076-alolan      Golem-alolan
+076-normal      Golem-normal
+077             Ponyta
+078             Rapidash
+079             Slowpoke
+080             Slowbro
+080-mega        Slowbro-mega
+081             Magnemite
+082             Magneton
+083             Farfetch'd
+084             Doduo
+085             Dodrio
+086             Seel
+087             Dewgong
+088-alolan      Grimer-alolan
+088-normal      Grimer-normal
+089-alolan      Muk-alolan
+089-normal      Muk-normal
+090             Shellder
+091             Cloyster
+092             Gastly
+093             Haunter
+093-special     Haunter-special
+094             Gengar
+094-mega        Gengar-mega
+095             Onix
+095-crystal     Onix-crystal
+096             Drowzee
+097             Hypno
+098             Krabby
+099             Kingler
+100             Voltorb
+101             Electrode
+102             Exeggcute
+103-alolan      Exeggcutor-alolan
+103-normal      Exeggcutor-normal
+104             Cubona
+105-alolan      Marowak-alolan
+105-normal      Marowak-normal
+106             Hitmonlee
+107             Hitmonchan
+108             Lickytung
+109             Koffing
+109-loved       Koffing-loved
+110             Weezing
+110-loved       Weezing-loved
+111             Rhyhorn
+112             Rhydon
+113             Chansey
+114             Tangela
+115             Kanghaskan
+115-mega        Kanghaskan-mega
+116             Horsea
+117             Seadra
+118             Goldeen
+119             Seaking
+120             Staryu
+121             Starmie
+122             Mr. mime
+123             Scyther
+124             Jynx
+125             Electabuzz
+126             Magmar
+127             Pinsir
+127-mega        Pinsir-mega
+128             Tauros
+129             Magikarp
+129-special     Magikarp-special
+130             Gyarados
+130-mega        Gyarados-mega
+130-special     Gyarados-special
+131             Lapras
+132             Ditto
+133             Eevee
+134             Vaporeon
+135             Jolteon
+136             Flareon
+137             Porygon
+138             Omanyte
+139             Omastar
+140             Kabuto
+141             Kabutops
+142             Aerodactyl
+142-mega        Aerodactyl-mega
+143             Snorlax
+144             Articuno
+145             Zapdos
+146             Moltres
+147             Dratini
+148             Dragonair
+149             Dragonite
 150             Mewtwo
 150-mega-x      Mewtwo-mega-x
 150-mega-y      Mewtwo-mega-y
