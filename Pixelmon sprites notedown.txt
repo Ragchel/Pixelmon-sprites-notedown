@@ -534,326 +534,326 @@
 398                 Staraptor
 399-normal          Bidoof-normal
 399-sirdoofusiii    Bidoof-sirdoofusiii
-400
-401
-402
-403
-404
-405
-406
-407
-408
-409
-410
-411
-412
-412-none
-412-plant
-412-sandy
-412-trash
-413
-413-plant
-413-sandy
-413-trash
-414
-415
-416
-417
-418
-419
-420
-421-overcast
-421-sunshine
-422-east
-422-west
-423-east
-423-west
-424
-425
-426
-427
-428
-428-mega
-429
-430
-431
-432
-433
-434
-435
-436
-437
-438
-439
-440
-441
-442
-443
-444
-445
-445-mega
-446
-447
-448
-448-mega
-449-female
-449-male
-450-female
-450-male
-451
-452
-453
-454
-455
-456
-457
-458
-459
-460
-460-mega
-461
-461-f
-462
-463
-464
-465
-466
-467
-468
-469
-470
-471
-472
-473
-474
-475
-475-mega
-476
-477
-478
-479-fan
-479-frost
-479-heat
-479-mow
-479-normal
-479-wash
-480
-481
-482
-483
-484
-485
-486
-487-altered
-487-origin
-488
-489
-490
-491
-492-land
-492-sky
-493-bug
-493-dark
-493-dragon
-493-electric
-493-fairy
-493-fighting
-493-fire
-493-flying
-493-ghost
-493-grass
-493-ground
-493-ice
-493-normal
-493-poison
-493-psychic
-493-rock
-493-steel
-493-water
-494
-495
-496
-497
-497-special
-498
-499
-500
-500-special
-501
-502
-503
-503-special
-504
-505
-506
-507
-508
-509
-510
-511
-512
-513
-514
-515
-516
-517
-518
-519
-520
-521-female
-521-male
-522
-523
-524
-525
-526
-527
-528
-529
-530
-531
-531-mega
-532
-533
-534
-535
-536
-537
-538
-539
-540
-541
-542
-543
-544
-545
-546
-547
-548
-549
-550-blue
-550-red
-551
-552
-553
-554
-555-standard
-555-zen
-556
-557
-558
-559
-560
-561
-562
-563
-564
-565
-566
-567
-568
-569
-570
-571
-572
-573
-574
-575
-576
-577
-578
-579
-580
-581
-582
-583
-584
-585-autumn
-585-spring
-585-summer
-585-winter
-586-autumn
-586-spring
-586-summer
-586-winter
-587
-588
-589
-590
-591
-592-female
-592-male
-593-female
-593-male
-594
-595
-596
-597
-598
-599
-600
-601
-602
-603
-604
-605
-606
-607
-608
-609
-610
-611
-612
-613
-614
-615
-616
-617
-618
-619
-620
-621
-622
-623
-624
-625
-626
-627
-628
-629
-630
-631
-632
-633
-634
-635
-636
-637
-638
-639
-640
-641-incarnate
-641-therian
-642-incarnate
-642-therian
-643
-644
-645-incarnate
-645-therian
-646-black
-646-black2
-646-normal
-646-white
-646-white2
-647-ordinary
-647-resolute
-648-aria
-648-pirouette
-649-burn
-649-chill
-649-douse
-649-normal
-649-shock
+400                 Bibarel
+401                 Kricketot
+402                 Kricketune
+403                 Shinx
+404                 Luxio
+405                 Luxray
+406                 Budew
+407                 Roserade
+408                 Cranidos
+409                 Rampardos
+410                 Shieldon
+411                 Bastiodon
+412                 Burmy
+412-none            Burmy-none
+412-plant           Burmy-plant
+412-sandy           Burmy-sandy
+412-trash           Burmy-trash
+413                 Wormadan
+413-plant           Wormadan-plant
+413-sandy           Wormadan-sandy
+413-trash           Wormadan-trash
+414                 Mothim
+415                 Combee
+416                 Vespiquen
+417                 Pachirisu
+418                 Buizel
+419                 Floatzel
+420                 Cherrubi
+421-overcast        Cherrim-overcast
+421-sunshine        Cherrim-sunshine
+422-east            Shellos-east
+422-west            Shellos-west
+423-east            Gastrodon-east
+423-west            Gastrodont-west
+424                 Ambipom
+425                 Drifloon
+426                 Drifblim
+427                 Bunneary
+428                 Lopunny
+428-mega            Lopunny-mega
+429                 Mismagius
+430                 Honchkrow
+431                 Glameow
+432                 Purugly
+433                 Chingling
+434                 Stunky
+435                 Stunktank
+436                 Bronzor
+437                 Bronzong
+438                 Bonsly
+439                 Mime. jr
+440                 Hapinny
+441                 Chatot
+442                 Spiritomb
+443                 Gible
+444                 Gabite
+445                 Garchomp
+445-mega            Garchomp-mega
+446                 Munchlax
+447                 Riolu
+448                 Lucario
+448-mega            Lucario-mega
+449-female          Hippopotas-female
+449-male            Hippopotas-male
+450-female          Hippowdon-female
+450-male            Hippopotas-male
+451                 Skorupi
+452                 Drapion
+453                 Croagunk
+454                 Toxicroak
+455                 Carvine
+456                 Finneon
+457                 Lumineon
+458                 Mantyke
+459                 Snover
+460                 Abomasnow
+460-mega            Abomasnow-mega
+461                 Weavile
+461-f               Weavile-f
+462                 Magnezone
+463                 Lickilicky
+464                 Rhyperior
+465                 Tangrowth
+466                 Electivire
+467                 Magmortar
+468                 Togekiss
+469                 Yanmega
+470                 Leafeon
+471                 Glaceon
+472                 Gliscor
+473                 Mamoswine
+474                 Porygon-z
+475                 Gallade
+475-mega            Gallede-mega
+476                 Probopass
+477                 Dusknoir
+478                 Frosslass
+479-fan             Rotom-fan
+479-frost           Rotom-frost
+479-heat            Rotom-heat
+479-mow             Rotom-mow
+479-normal          Rotom-normal
+479-wash            Rotom-wash
+480                 Uxie
+481                 Mesprit
+482                 Azelf
+483                 Dialga
+484                 Palkia
+485                 Heatran
+486                 Regigigas
+487-altered         Giratina-altered
+487-origin          Giratina-origin
+488                 Cresselia
+489                 Phione
+490                 Manaphy
+491                 Darkrai
+492-land            Shaymin-land
+492-sky             Shaymin-sky
+493-bug             Arceus-bug
+493-dark            Arceus-dark
+493-dragon          Arceus-dragon
+493-electric        Arceus-electric
+493-fairy           Arceus-fairy
+493-fighting        Arceus-fighting
+493-fire            Arceus-fire
+493-flying          Arceus-flying
+493-ghost           Arceus-ghost
+493-grass           Arceus-grass
+493-ground          Arceus-ground
+493-ice             Arceus-ice
+493-normal          Arceus-normal
+493-poison          Arceus-poison
+493-psychic         Arceus-psychic
+493-rock            Arceus-rock
+493-steel           Arceus-steel
+493-water           Arceus-water
+494                 Victini
+495                 Snivy
+496                 Servine
+497                 Serperior
+497-special         Serperior-special
+498                 Tepig
+499                 Pignite
+500                 Emboar
+500-special         Emboar-special
+501                 Oshawott
+502                 Dewott
+503                 Samurott
+503-special         Samurott-special
+504                 Patrat
+505                 Watchog
+506                 Lillipup
+507                 Herdier
+508                 Stoutland
+509                 Purrloin
+510                 Liepard
+511                 Pansage
+512                 Simisage
+513                 Pansear
+514                 Simisear
+515                 Panpour
+516                 Simipour
+517                 Munna
+518                 Musharna
+519                 Pidove
+520                 Tranquil
+521-female          Unfezant-female
+521-male            Unfezant-male
+522                 Blitzle
+523                 Zebstrika
+524                 Roggenrola
+525                 Boldore
+526                 Gigalith
+527                 Woobat
+528                 Swoobat
+529                 Drillbur
+530                 Excadrill
+531                 Audino
+531-mega            Audino-mega
+532                 Timburr
+533                 Gurdurr
+534                 Cronkelldurr
+535                 Tympole
+536                 Palpitoad
+537                 Seismitoad
+538                 Troh
+539                 Sawk
+540                 Sewaddle
+541                 Swadloon
+542                 Leavanny
+543                 Venipede
+544                 Whirlipede
+545                 Scolipede
+546                 Cottonee
+547                 Whimsicott
+548                 Petilill
+549                 Lilligant
+550-blue            Basculin-blue
+550-red             Basculin-red
+551                 Sandile
+552                 Krokorok
+553                 Krookodile
+554                 Darumuka
+555-standard        Darmanitan-standard
+555-zen             Darmanitan-zen
+556                 Maractus
+557                 Dwebble
+558                 Crustle
+559                 Scraggy
+560                 Scrafty
+561                 Sigilyph
+562                 Yanmask
+563                 Cofagrigus
+564                 Tortouga
+565                 Corracosta
+566                 Archen
+567                 Archeops
+568                 Trubbish
+569                 Garbodor
+570                 Zorua
+571                 Zoroark
+572                 Mincinno
+573                 Cincinno
+574                 Gothita
+575                 Gothorita
+576                 Gothitella
+577                 Solosis
+578                 Duosion
+579                 Reuniclus
+580                 Ducklett
+581                 Swanna
+582                 Vanilitte
+583                 Vanillish
+584                 Vanilluxe
+585-autumn          Deerling-autumn
+585-spring          Deerling-spring
+585-summer          Deerling-summer
+585-winter          Deeling-winter
+586-autumn          Sawsbuck-autumn
+586-spring          Sawsbuck-spring
+586-summer          Sawsbuck-summer
+586-winter          Sawsbuck-winter
+587                 Emolga
+588                 Karrablast
+589                 Escalvier
+590                 Foongus
+591                 Amoonguss
+592-female          Frillish-female
+592-male            Frillish-male
+593-female          Jellicent-female
+593-male            Jellicent-male
+594                 Alomomola
+595                 Joltik
+596                 Galvantuala
+597                 Ferroseed
+598                 Ferrothorn
+599                 Klang
+600                 Kling
+601                 Klinklang
+602                 Tynamo
+603                 Eelectrik
+604                 Eelectross
+605                 Elgyem
+606                 Beheeyem
+607                 Litwick
+608                 Lampent
+609                 Chandelure
+610                 Axew
+611                 Fraxure
+612                 Haxorus
+613                 Chuboo
+614                 Beartic
+615                 Cryogonal
+616                 Shelmet
+617                 Accelgor
+618                 Stunfisk
+619                 Mienfoo
+620                 Mienshao
+621                 Druddigon
+622                 Gollet
+623                 Gollurk
+624                 Pawniard
+625                 Bisharp
+626                 Bouffalant
+627                 Rufflet
+628                 Braviary
+629                 Vullaby
+630                 Mandibuzz
+631                 Heatmor
+632                 Durant
+633                 Deino
+634                 Zweilous
+635                 Heidragon
+636                 Larvesta
+637                 Volcarona
+638                 Cobalion
+639                 Terrakion
+640                 Virizion
+641-incarnate       Tornadus-incarnate
+641-therian         Tornadus-therian
+642-incarnate       Thundurus-incarnate
+642-therian         Thundurus-therian
+643                 Reshiram
+644                 Zekrom
+645-incarnate       Landorus-incarnate
+645-therian         Landorus-therian
+646-black           Kyurem-black
+646-black2          Kyurem-black2
+646-normal          Kyurem-normal
+646-white           Kyurem-white
+646-white2          Kyurem-white2
+647-ordinary        Keldeo-ordinary
+647-resolute        Keldeo-resolute
+648-aria            Meloetta-aria
+648-pirouette       Meloetta-pirouette
+649-burn            Genesect-burn
+649-chill           Genesect-chill
+649-douse           Genesect-douse
+649-normal          Genesect-normal
+649-shock           Genesect-shock
 650
 651
 652
