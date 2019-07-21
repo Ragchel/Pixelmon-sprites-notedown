@@ -1031,24 +1031,24 @@
 770
 771
 772
-773-bug
-773-dark
-773-dragon
-773-electric
-773-fairy
-773-fighting
-773-fire
-773-flying
-773-ghost
-773-grass
-773-ground
-773-ice
-773-normal
-773-poison
-773-psychic
-773-rock
-773-steel
-773-water
+773-bug             Silvally-bug
+773-dark            Silvally-dark
+773-dragon          Silvally-dragon
+773-electric        Silvally-electric
+773-fairy           Silvally-fairy
+773-fighting        Silvally-fighting
+773-fire            Silvally-fire
+773-flying          Silvally-flying
+773-ghost           Silvally-ghost
+773-grass           Silvally-grass
+773-ground          Silvally-ground
+773-ice             Silvally-ice
+773-normal          Silvally-normal
+773-poison          Silvally-poison
+773-psychic         Silvally-psychic
+773-rock            Silvally-rock
+773-steel           Silvally-steel
+773-water           Silvally-water
 774-blue
 774-green
 774-indigo
