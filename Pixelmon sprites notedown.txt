@@ -854,134 +854,135 @@
 649-douse           Genesect-douse
 649-normal          Genesect-normal
 649-shock           Genesect-shock
-650
-651
-652
-652-special
-653
-654
-655
-655-special
-656
-657
-658
-658-ash
-658-special
-659
-660
-661
-662
-663
-664
-665
-666-archipelago
-666-continental
-666-elegant
-666-fancy
-666-garden
-666-highplains
-666-icysnow
-666-jungle
-666-marine
-666-meadow
-666-modern
-666-monsoon
-666-ocean
-666-pokeball
-666-polar
-666-river
-666-sandstorm
-666-savanna
-666-sun
-666-lundra
-667
-668-female
-668-male
-669-blue
-669-orange
-669-red
-669-white
-669-yellow
-670-az
-670-blue
-670-orange
-670-red
-670-white
-670-yellow
-671-blue
-671-orange
-671-red
-671-white
-671-yellow
-672
-673
-674
-675
-676
-676-da
-676-de
-676-di
-676-he
-676-ka
-676-la
-676-ma
-676-ph
-676-st
-677
-678-female
-678-male
-680
-681-blade
-681-shield
-682
-683
-684
-685
-686
-687
-688
-689
-690
-691
-692
-693
-694
-695
-696
-697
-698
-699
-700
-701
-702
-703
-704
-705
-706
-707
-708
-709
-710
-711
-712
-713
-714
-715
-716-active
-716-neutral
-717
-718
-718-complete
-718-tenpercent
-719
-719-mega
-720-confined
-720-unbound
-721
-722
-723
-724
-725
+650                 Chespin
+651                 
+652                 Chesnaught
+652-special         Chesnaught-special
+653                 Fennekin
+654                 Braixen
+655                 Delphox
+655-special         Delhox-special
+656                 Froakie
+657                 Frogadier
+658                 Greninja
+658-ash             Greninja-ash
+658-special         Greninja-special
+659                 Bunnelby
+660                 Diggersby
+661                 Fletchling
+662                 Fletchinder
+663                 Talonflame
+664                 Scatterbug
+665                 
+666-archipelago     Vivillon-archipelago
+666-continental     Vivillon-continental
+666-elegant         Vivillon-elegant
+666-fancy           Vivillon-fancy
+666-garden          Vivillon-garden
+666-highplains      Vivillon-highplains
+666-icysnow         Vivillon-icysnow
+666-jungle          Vivillon-jungle
+666-marine          Vivillon-marine
+666-meadow          Vivillon-meadow
+666-modern          Vivillon-modern
+666-monsoon         Vivillon-monsoon
+666-ocean           Vivillon-ocean
+666-pokeball        Vivillon-pokeball
+666-polar           Vivillon-polar
+666-river           Vivillon-river
+666-sandstorm       Vivillon-sandstorm
+666-savanna         Vivillon-savanna
+666-sun             Vivillon-sun
+666-lundra          Vivillon-lundra
+667                 Litleo
+668-female          Pyroar-female
+668-male            Pyroar-male
+669-blue            Flabébé-blue
+669-orange          Flabébé-orange
+669-red             Flabébé-red
+669-white           Flabébé-white
+669-yellow          Flabébé-yellow
+670-az              Floette-az
+670-blue            Floette-blue
+670-orange          Floette-orange
+670-red             Floette-red
+670-white           Floette-white
+670-yellow          Floette-yellow
+671-blue            Florges-blue
+671-orange          Florges-orange
+671-red             Florges-red
+671-white           Florges-white
+671-yellow          Florges-yellow
+672                 Skiddoo
+673                 Gogoat
+674                 Pancham
+675                 Pangoro
+676                 Furfrou
+676-da              Furfrou-da
+676-de              Furfrou-de
+676-di              Furfrou-di
+676-he              Furfrou-he
+676-ka              Furfrou-ka
+676-la              Furfrou-la
+676-ma              Furfrou-male
+676-ph              Furfrou-ph
+676-st              Furfrou-st
+677                 Espurr
+678-female          Meowstic-female
+678-male            Meowstic-male
+679                 Honedge
+680                 Doublade
+681-blade           Aegislash-blade
+681-shield          Aegislash-shield
+682                 Spritzee
+683                 Aromatisse
+684                 Swirlix
+685                 Slurpuff
+686                 Inkay
+687                 Malamar
+688                 Binacle
+689                 Barbaracle
+690                 Skrelp
+691                 Dragalge
+692                 Clauncher
+693                 Clawitzer
+694                 Helioptile
+695                 Heliolisk
+696                 Tyrunt
+697                 Tyrantrum
+698                 Amaura
+699                 Aurorus
+700                 Sylveon
+701                 Hawlucha
+702                 Dedenne
+703                 Carbink
+704                 Goomy
+705                 Sluggoo
+706                 Goodra
+707                 Klefki
+708                 Phantump
+709                 Trevenant
+710                 Pumkaboo
+711                 Gourgeist
+712                 Bergmite
+713                 Avalugg
+714                 Noibat
+715                 Noivern
+716-active          Xerneas-active
+716-neutral         Xerneas-neutral
+717                 Yveltal
+718                 Zygarde
+718-complete        Zygarde-complete
+718-tenpercent      Zygarde-tenpercent
+719                 Diancie
+719-mega            Diance-mega
+720-confined        Hoopa-confined
+720-unbound         Hoopa-unbound
+721                 Volcanion
+722                 Rowlett
+723                 Dartrix
+724                 Decidueye
+725                 Litten
 726
 728
 730
