@@ -1088,6 +1088,7 @@
 797                 Celesteela
 798                 Kartana
 799                 Guzzlord
+800                 Necrozma
 800-dawn            Necrozma-dawn
 800-dusk            Necrozma-dusk
 800-normal          Necrozma-normal
