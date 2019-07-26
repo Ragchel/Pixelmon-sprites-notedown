@@ -983,54 +983,58 @@
 723                 Dartrix
 724                 Decidueye
 725                 Litten
-726
-728
-730
-731
-732
-733
-734
-735
-736
-737
-738
-739
-740
-741
-742
-743
-744
-745-dusk
-745-midday
-745-midnight
-746
-746-s
-747
-748
-749
-750
-751
-752
-753
-754
-755
-756
-757
-758
-759
-760
-761
-762
-763
-764
-765
-766
-767
-768
-769
-770
-771
-772
+726                 Torracat
+727                 Incineroar
+728                 Poplio
+729                 Brionne
+730                 Primarina
+731                 Pikipek
+732                 Trumbreak
+733                 Toucannon
+734                 Yungoos
+735                 Gumshoos
+736                 Grubbin
+737                 Charjabug
+738                 Vikavolt
+739                 Crabrawler
+740                 Crabominable
+741-baile           Oricorio-baile
+741-pau             Oricorio-pau
+741-pompom          Oricorio-pompom
+741-sensu           Oricorio-sensu
+743                 Cutiefly
+744                 Rockruff
+745-dusk            Lycanroc-dusk
+745-midday          Lycanroc-midday
+745-midnight        Lycanroc-midnight
+746                 Wishiwashi
+746-s               Wishiwashi-s
+747                 Mareanie
+748                 Toxapex
+749                 Mudbray
+750                 Mudsdale
+751                 Dewpider
+752                 Arquanid
+753                 Fomantis
+754                 Lurantis
+755                 Morelull
+756                 Shiinotic
+757                 Salandit
+758                 Salazzle
+759                 Stufful
+760                 Bewear
+761                 Bounsweet
+762                 Steenee
+763                 Tsareena
+764                 Comfey
+765                 Oranguru
+766                 Passimian
+767                 Wimpod
+768                 Golisopod
+769                 Sandygast
+770                 Palossand
+771                 Pyukumuku
+772                 Type:null
 773-bug             Silvally-bug
 773-dark            Silvally-dark
 773-dragon          Silvally-dragon
@@ -1049,52 +1053,52 @@
 773-rock            Silvally-rock
 773-steel           Silvally-steel
 773-water           Silvally-water
-774-blue
-774-green
-774-indigo
-774-meteor
-774-orange
-774-red
-774-violet
-774-yellow
-775
-776
-777
-778
-779
-780
-781
-782
-783
-784
-785
-786
-787
-788
-789
-790
-791
-791-r
-792
-792-r
-793
-794
-795
-796
-797
-798
-799
-800-dawn
-800-dusk
-800-normal
-800-ultra
-801
-801-o
-802
-803
-804
-805
-806
-807
-808
-809 
+774-blue            Minior-blue
+774-green           Minior-green
+774-indigo          Minior-indigo
+774-meteor          Minior-meteor
+774-orange          Minior-orange
+774-red             Minior-orange
+774-violet          Minior-violet
+774-yellow          Minior-yellow
+775                 Komala
+776                 Turtonator
+777                 Togedemaru
+778                 Mimikyu
+779                 Bruxish
+780                 Drampa
+781                 Dhelmise
+782                 Jangmo-o
+783                 Hakamo-o
+784                 Kommo-o
+785                 Tapu Koko
+786                 Tapu Lele
+787                 Tapu Bulu
+788                 Tapu Fini
+789                 Cosmog
+790                 Cosmoem
+791                 Solgaleo
+791-r               Solgaleo-r
+792                 Lunala
+792-r               Lunala-r
+793                 Nihilego
+794                 Buzzwole
+795                 Pheromosa
+796                 Xurkitree
+797                 Celesteela
+798                 Kartana
+799                 Guzzlord
+800-dawn            Necrozma-dawn
+800-dusk            Necrozma-dusk
+800-normal          Necrozma-normal
+800-ultra           Necrozma-ultra
+801                 Magearna
+801-o               Magearna-o
+802                 Marshadow
+803                 Poipole
+804                 Naganadel
+805                 Stakataka
+806                 Blacephalon
+807                 Zeraora
+808                 Meltan
+809                 Melmetal
